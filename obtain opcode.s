@@ -1,5 +1,4 @@
-# Kushal Agrawal
-# 2020CSB1096
+
 .data
 instruction: .word 0x005180b3
 address: .word 0x10001000
