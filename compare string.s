@@ -1,5 +1,4 @@
-# Kushal Agrawal
-# 2020CSB1096
+
 .data
 n: .word 12
 string1: .string "heyhowareYou"
