@@ -1,5 +1,4 @@
-#Kushal Agrawal
-#2020CSB1096
+
 #sequence input should not start or end with a space, and there should be a single space between each {E,D,S,number to be enqueued}
 .data
 sequence: .string "E 20 E 12 E 9 D D S E 23 E 17" #input sequence
