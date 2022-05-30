@@ -1,5 +1,4 @@
-#Kushal Agrawal
-#2020CSB1096
+
 .data
 n1: .word 10 #size of array 1
 n2: .word 6 #size of array 2
